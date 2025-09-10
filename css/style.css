@@ -1,0 +1,19 @@
+header {background-color: rgb(21, 21, 57);
+        color: aliceblue;
+        font-size: 10px;
+        display: flex;
+        padding-left: 100%;
+        padding-right: 100%;
+        margin: 0;
+        box-sizing: border-box}
+h1 {color: rgb(255, 255, 255);
+    font-size: 50px;}
+main {background-color: black;}
+p {color: aliceblue;
+   padding-bottom: 30px;}
+iframe {border-radius: 20px;
+        border-color: rgb(255, 255, 255);}
+img {border-radius: 20px;}
+h3 {color: aliceblue;
+    font-size: 40px;}
+
